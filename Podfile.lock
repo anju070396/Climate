@@ -1,0 +1,16 @@
+PODS:
+  - Connectivity (5.0.0)
+
+DEPENDENCIES:
+  - Connectivity
+
+SPEC REPOS:
+  trunk:
+    - Connectivity
+
+SPEC CHECKSUMS:
+  Connectivity: e990703fb8d8db54649ea05facac92000cc0f3eb
+
+PODFILE CHECKSUM: 3cfc9c399c4ac696844f0fce57a4cac85e3d317a
+
+COCOAPODS: 1.9.3

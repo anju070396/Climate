@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Climate" representedClassName="Climate" syncable="YES">
+        <attribute name="weathers" attributeType="Transformable" customClassName=".Weathers"/>
+    </entity>
+    <elements>
+        <element name="Climate" positionX="-63" positionY="-18" width="128" height="58"/>
+    </elements>
+</model>
